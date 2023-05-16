@@ -7,8 +7,8 @@ For this lab we will be manipulating upstream and downstream tasks. This should 
 First clone the lab locally and install the dependencies like so:
 
 ```bash
-git clone git@github.com:TPL-515/Lab1.git
-cd Lab1/
+git clone git@github.com:TPL-515/Lab3.git
+cd Lab3/
 pip install -e ".[dev]"
 ```
 
@@ -33,3 +33,7 @@ For this lab you will be asked to perform the following tasks
 2) Change the order of the assets so that it goes run, walk, crawl.
 
 3) Validate that the order is changed in the U.I.
+
+4) Create a new asset "sprint" that behaves like the other assets
+
+5) Add make a new order that goes run, walk, crawl and sprint at the same level.
